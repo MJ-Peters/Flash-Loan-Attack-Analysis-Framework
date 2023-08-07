@@ -1,1 +1,2 @@
 # Flash-Loan-Attack-Analysis-Framework
+## DO NOT MAKE REPO PUBLIC. MYSQL PASSWORD IS SENSITIVE
